@@ -3,3 +3,9 @@ let a = 10
 let b= 20
 let subs = a-b
 console.log(subs);
+function add(a,b){
+
+    console.log(a+b)
+    
+}
+add(5,5)
